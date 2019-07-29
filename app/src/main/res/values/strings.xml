@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Kelas 8D</string>
+    <string-array name="namaKelas">
+        <item>Abdurrahman Wafi</item>
+        <item>Ahmad Miqdad</item>
+        <item>Ananda Gharyn </item>
+        <item>Harits</item>
+        <item>Hilmi Raditya</item>
+        <item>Muhammad Abiyyu</item>
+        <item>Muhammad Adil</item>
+        <item>Muhammad Akmal</item>
+        <item>Muhammad Aqsha</item>
+        <item>Muhammad Fadhlan</item>
+    </string-array>
+
+    <string name="aWafi"> ABDURRAHMAN WAFI A.R. </string>
+    <string name="aWafiDes">Nama : Abdurrahman Wafi Adzima Ramadhan \n\n
+    Kelas : 8D \n\n
+    Sekolah : IDN Boarding School</string>
+
+    <string name="aMiqdad"> AHMAD MIQDAD </string>
+    <string name="aMiqdadDes">Nama : Ahmad Miqdad \n\n
+    Kelas : 8D \n\n
+    Sekolah : IDN Boarding School</string>
+
+    <string name="aGharyn"> ANANDA GHARYN S. </string>
+    <string name="aGharynDes">Nama : Ananda Gharyn Sinulingga \n\n
+    Kelas : 8D \n\n
+    Sekolah : IDN Boarding School</string>
+
+    <string name="aHarits"> HARITS </string>
+    <string name="aHaritsDes">Nama : Harits \n\n
+    Kelas : 8D \n\n
+    Sekolah : IDN Boarding School</string>
+
+    <string name="aHilmi"> HILMI RADITYA R. </string>
+    <string name="aHilmides">Nama : Hilmi Raditya Ramadhan \n\n
+    Kelas : 8D \n\n
+    Sekolah : IDN Boarding School</string>
+
+    <string name="aByan"> MUHAMMAD ABIYYU R. </string>
+    <string name="aByanDes">Nama : Muhammad Abiyyu Ramadhan \n\n
+    Kelas : 8D \n\n
+    Sekolah : IDN Boarding School</string>
+
+    <string name="aAdil"> MUHAMMAD ADIL M. </string>
+    <string name="aAdilDes">Nama : Muhammad Adil Mutaqin \n\n
+    Kelas : 8D \n\n
+    Sekolah : IDN Boarding School</string>
+
+    <string name="aAkmal"> MUHAMMAD AKMAL A. </string>
+    <string name="aAkmalDes">Nama : Muhammad Akmal Ahsan \n\n
+    Kelas : 8D \n\n
+    Sekolah : IDN Boarding School</string>
+
+    <string name="aAqsha"> MUHAMMAD AQSHA M. </string>
+    <string name="aAqshaDes">Nama : Muhammad Aqsha Munggaran \n\n
+    Kelas : 8D \n\n
+    Sekolah : IDN Boarding School</string>
+
+    <string name="aFadhlan"> MUHAMMAD FADHLAN W. </string>
+    <string name="aFadhlanDes">Nama : Muhammad Fadhlan Wahyudi \n\n
+    Kelas : 8D \n\n
+    Sekolah : IDN Boarding School</string>
+
+</resources>
