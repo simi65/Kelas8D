@@ -7,29 +7,49 @@
     tools:context=".SplashActivity"
     android:background="#7FFFD4">
 
-    <ImageView
+   <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="215dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="136dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
         android:background="@drawable/tbz"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.581"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:layout_width="383dp"
-        android:layout_height="182dp"
+        android:id="@+id/textView"
+        android:layout_width="334dp"
+        android:layout_height="65dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
-        android:layout_marginBottom="8dp"
         android:text="Kelas 8D"
         android:textAlignment="center"
         android:textSize="30dp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.55"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView"
         tools:ignore="MissingConstraints" />
+
+    <ProgressBar
+        android:layout_width="94dp"
+        android:layout_height="110dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+    
+
 
 
 
